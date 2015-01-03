@@ -1,1 +1,3 @@
-This file <aaa>.
+This file <aaa>.test line in file aaa
+test line000 in file aaa
+test line111 in file aaa
